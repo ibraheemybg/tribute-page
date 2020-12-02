@@ -1,0 +1,31 @@
+img{
+  height:500px;
+  width:400px;
+  display:inline-block;
+  margin-left: 20px;
+  position: relative;
+  bottom: 20px;
+
+}
+body{
+  background-color: grey;
+}
+.tri{
+  text-align: left;
+}
+.tip{
+  position: absolute;
+  bottom: 420px;
+}
+.end{
+  height: 30px;
+  width: 1320px;
+  color: black;
+  background-color:white;
+  position: relative;
+  bottom: 30px;
+  left: 21px;
+}
+h1,h2{
+  text-align: center;
+}
